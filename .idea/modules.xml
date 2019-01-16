@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../autoTrade_new/.idea/Lab07.iml" filepath="$PROJECT_DIR$/../autoTrade_new/.idea/Lab07.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kw_condition-master.iml" filepath="$PROJECT_DIR$/.idea/kw_condition-master.iml" />
     </modules>
   </component>

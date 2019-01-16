@@ -17,8 +17,8 @@ from mainwindow_ui import Ui_MainWindow
 ###################################################################################################
 
 AUTO_TRADING_OPERATION_TIME = [ [ [9, 1], [15, 19] ] ] #해당 시스템 동작 시간 설정 장시작시 급등하고 급락하여 매수 / 매도 시 손해 나는 것을 막기 위해 1분 유예 둠 (반드시 할것)
-CONDITION_NAME = '시가갭' #키움증권 HTS 에서 설정한 조건 검색 식 총이름
-TOTAL_BUY_AMOUNT = 50000 #  매도 호가1, 2 총 수량이 TOTAL_BUY_AMOUNT 이상 안되면 매수금지  (슬리피지 최소화)
+CONDITION_NAME = '스캘퍼_시가갭' #키움증권 HTS 에서 설정한 조건 검색 식 총이름
+TOTAL_BUY_AMOUNT = 10000 #  매도 호가1, 2 총 수량이 TOTAL_BUY_AMOUNT 이상 안되면 매수금지  (슬리피지 최소화)
 
 MAESU_BASE_UNIT = 10000 # 추가 매수 기본 단위
 MAESU_LIMIT = 3 # 추가 매수 제한 
@@ -33,7 +33,7 @@ STOCK_POSSESION_COUNT = 20 + len(EXCEPTION_LIST)   # 보유 종목수 제한
 ###################################################################################################
 ###################################################################################################
 
-TEST_MODE = False    # 주의 TEST_MODE 를 True 로 하면 1주 단위로 삼 
+TEST_MODE = False    # 주의 TEST_MODE 를 True 로 하면 1주 단위로 삼
 
 # DAY_TRADING_END_TIME 시간에 모두 시장가로 팔아 버림  반드시 동시 호가 시간 이전으로 입력해야함 
 # auto_trading_operation_time 이전값을 잡아야 함 
@@ -926,8 +926,8 @@ class KiwoomConditon(QObject):
                     qty = int(total_price / maedoHoga1 /2 ) + 1
 
 
-            result = self.sendOrder("buy_" + jongmokCode, kw_util.sendOrderScreenNo, 
-                                objKiwoom.account_list[0], kw_util.dict_order["신규매수"], jongmokCode, 
+            result = self.sendOrder("buy_" + jongmokCode, kw_util.sendOrderScreenNo,
+                                objKiwoom.account_list[0], kw_util.dict_order["신규매수"], jongmokCode,
                                 qty, 0 , kw_util.dict_order["시장가"], "")
 
             print("B " + str(result) , sep="")
@@ -1881,7 +1881,7 @@ class KiwoomConditon(QObject):
         # 'index: {}, next: {}'
         # .format(scrNo, codeList, conditionName, index, next ))
         codes = codeList.split(';')[:-1]
-        # 마지막 split 결과 None 이므로 삭제 
+        # 마지막 split 결과 None 이므로 삭제
         for code in codes:
             print('condition occur list add code: {} '.format(code) + self.getMasterCodeName(code))
             self.addConditionOccurList(code)

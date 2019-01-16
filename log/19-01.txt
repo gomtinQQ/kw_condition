@@ -1,0 +1,123 @@
+[19-01-09 17:00:21][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-09 17:00:21][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-09 17:00:33][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-09 17:00:33][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-09 17:05:26][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-09 17:05:27][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-15 11:22:08][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-15 11:28:36][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-15 11:30:19][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-15 11:32:09][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-15 11:34:16][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-15 11:35:17][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:31:59][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:32:19][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:34:25][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:35:53][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 15:35:53][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:38:37][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:38:57][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 15:38:57][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:41:01][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 15:41:01][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:42:17][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 15:42:17][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:44:13][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:44:39][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:44:46][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 15:46:06][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 15:46:06][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 15:48:01][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 15:48:01][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 16:14:54][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 16:14:54][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 16:25:25][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 16:25:26][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 16:31:38][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 16:31:38][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 16:55:13][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 16:55:13][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 17:17:39][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 17:17:39][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
+[19-01-16 17:36:02][시스템       ] Stock Trade Terminate!
+
+
+
+
+
+[19-01-16 17:36:02][시스템메시지    ] sScrNo: 107, sRQName: 8111294711, sTrCode: opw00018, sMsg: [00Z310] 모의투자 조회가 완료되었습니다
