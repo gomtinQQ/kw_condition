@@ -258,7 +258,7 @@ class Stock(QObject):
         if (ret_vals.count(True)):
             return True
         else:
-            return True
+            return False
         pass
 
     @pyqtSlot(str, str, str, int, str, int, int, str, str, result=int)

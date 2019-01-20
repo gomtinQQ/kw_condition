@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="963a7fbb-37c1-4840-b176-93625ee55396" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../autoTrade_new/project/step-4/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../autoTrade_new/project/step-4/test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jk_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/19-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autoTrade_new/project/step-4/pytrader.py" beforeDir="false" afterPath="$PROJECT_DIR$/../autoTrade_new/project/step-4/pytrader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autoTrade_new/project/step-4/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../autoTrade_new/project/step-4/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../autoTrade_new/project/step-4/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../autoTrade_new/project/step-4/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/kw_condition-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kw_condition-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/19-01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/19-01.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/jango.json" beforeDir="false" afterPath="$PROJECT_DIR$/log/jango.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,13 +16,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1882193471">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="112" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="112" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="1204" column="17" lean-forward="true" selection-start-line="1204" selection-start-column="17" selection-end-line="1204" selection-end-column="17" />
+            <state relative-caret-position="270">
+              <caret line="1492" column="17" selection-start-line="1492" selection-start-column="17" selection-end-line="1492" selection-end-column="34" />
               <folding>
                 <element signature="e#21#61#0" expanded="true" />
               </folding>
@@ -38,11 +60,60 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+              <folding>
+                <element signature="e#21#61#0" expanded="true" />
+                <marker date="1547972699280" expanded="true" signature="1415:1448" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Anaconda3/Lib/encodings/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="152" selection-start-line="152" selection-end-line="152" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Anaconda3/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="106" selection-start-line="106" selection-end-line="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Anaconda3/Lib/encodings/utf_8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Anaconda3/Lib/genericpath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="822">
-              <caret line="330" column="2" lean-forward="true" selection-start-line="307" selection-end-line="330" selection-end-column="2" />
+            <state relative-caret-position="6061">
+              <caret line="330" column="2" selection-start-line="307" selection-end-line="330" selection-end-column="2" />
               <folding>
                 <element signature="e#21#61#0" expanded="true" />
               </folding>
@@ -61,14 +132,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>determineBuyProcessBuyStateEntered</find>
-      <find>finalStateEntered</find>
-      <find>onTimerSystemTimeout</find>
-      <find>self.fsm</find>
-      <find>test_make_jangoInfo</find>
-      <find>getCodeListByMarket</find>
-      <find>connectedStateEntered</find>
-      <find>systemStateEntered</find>
       <find>requestOpw00018</find>
       <find>getCommData</find>
       <find>makeEtcJangoInfo</find>
@@ -77,11 +140,8 @@
       <find>getConditionNameList</find>
       <find>getMasterCodeName</find>
       <find>sendCondition</find>
-      <find>standbyProcessBuyStateEntered</find>
       <find>isTradeAvailable</find>
       <find>매도호가1</find>
-      <find>processBuyState</find>
-      <find>connectedState</find>
       <find>requestingJangoSystemState</find>
       <find>requestingJangoSystemStateEntered</find>
       <find>getCondition</find>
@@ -91,6 +151,17 @@
       <find>getConditionLoad</find>
       <find>request5minInfoProcessBuyState</find>
       <find>sigGet5minInfo</find>
+      <find>sigRequestEtcInfo</find>
+      <find>requestEtcInfoProcessBuyState</find>
+      <find>standbyProcessBuyState</find>
+      <find>standbyProcessBuyStateEntered</find>
+      <find>sigConditionOccur</find>
+      <find>connectedState</find>
+      <find>processBuyState</find>
+      <find>determineBuyProcessBuyState</find>
+      <find>waitingTRlimitProcessBuyState</find>
+      <find>determineBuyProcessBuyStateEntered</find>
+      <find>sigBuy</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,6 +178,7 @@
         <option value="$PROJECT_DIR$/../autoTrade_new/project/step-4/test4.py" />
         <option value="$PROJECT_DIR$/../autoTrade_new/project/step-4/kiwoom.py" />
         <option value="$PROJECT_DIR$/main_test.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
@@ -124,8 +196,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="kw_condition-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kw_condition-master" type="462c0819:PsiDirectoryNode" />
+              <item name="kw_condition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kw_condition" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,7 +207,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../autoTrade_new" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -150,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main_test">
+  <component name="RunManager" selected="Python.test">
     <configuration name="main_test" type="PythonConfigurationType" factoryName="Python">
       <module name="kw_condition-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,6 +257,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../autoTrade_new/project/step-4/pytrader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kw_condition-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,8 +343,17 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.main_test" />
+      <item itemvalue="Python tests.Nosetests in test.py" />
+      <item itemvalue="Python.pytrader" />
+      <item itemvalue="Python.test3" />
+      <item itemvalue="Python.test4" />
+      <item itemvalue="Python.test" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.test4" />
         <item itemvalue="Python tests.Nosetests in test.py" />
         <item itemvalue="Python.pytrader" />
@@ -297,14 +399,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117492095" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27006507" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40173724" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984799" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -317,6 +420,9 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
     </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -371,6 +477,16 @@
           <line>1203</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_test.py</url>
+          <line>451</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main_test.py</url>
+          <line>440</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -378,23 +494,15 @@
     <entry file="file://C:/Anaconda3/Lib/site-packages/PyQt5/QtCore.pyi" />
     <entry file="file://$PROJECT_DIR$/qml/main.qml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1161">
-          <folding />
-        </state>
+        <state relative-caret-position="-1161" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ki_condition_start.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mainwindow_ui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-945">
-          <folding />
-        </state>
+        <state relative-caret-position="-945" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kw_util.py">
@@ -403,86 +511,68 @@
     <entry file="file://$PROJECT_DIR$/util.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="18" selection-start-line="18" selection-end-line="42" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/pytrader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="216" selection-start-line="216" selection-end-line="218" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/pymon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/test4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/kiwoom.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="99" column="8" selection-start-line="99" selection-start-column="8" selection-end-line="100" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/test2.py" />
+    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/pytrader.py" />
+    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/pymon.py" />
+    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/test.py" />
+    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/test3.py" />
+    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/test4.py" />
+    <entry file="file://$PROJECT_DIR$/../autoTrade_new/project/step-4/kiwoom.py" />
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="822">
-          <caret line="330" column="2" lean-forward="true" selection-start-line="307" selection-end-line="330" selection-end-column="2" />
+        <state relative-caret-position="6061">
+          <caret line="330" column="2" selection-start-line="307" selection-end-line="330" selection-end-column="2" />
           <folding>
             <element signature="e#21#61#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/encodings/utf_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/encodings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="1204" column="17" lean-forward="true" selection-start-line="1204" selection-start-column="17" selection-end-line="1204" selection-end-column="17" />
+        <state relative-caret-position="270">
+          <caret line="1492" column="17" selection-start-line="1492" selection-start-column="17" selection-end-line="1492" selection-end-column="34" />
           <folding>
             <element signature="e#21#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="e#21#61#0" expanded="true" />
+            <marker date="1547972699280" expanded="true" signature="1415:1448" ph="..." />
           </folding>
         </state>
       </provider>
